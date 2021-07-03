@@ -11,7 +11,7 @@ export default function About(){
                 <div class="row">
                     <div class="col-md-12 well-box">
                         <div class="content">
-<img src="http://giet.ac.in/img_external/slider/HomeSlide13.JPG" class="img_st"/>
+<img src="images/about.jpg" class="img_st"/>
 <div align="center"><strong>Godavari Institute of Engineering and Technology</strong></div>
 <br/>
 
